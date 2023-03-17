@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cat">Cotia</string>
+    <string name="real_little_king">Real little king</string>
+    <string name="details">Details</string>
+    <string name="fd_cat"> Cats are elegant and graceful animals with soft, fluffy fur and amazing eyes that allow them not to see in the dark. They are masters of communication, able to speak with the help of purrs, meows and other sounds. Cats are very curious and exploratory moods, so they often spend a lot of time closing the world around them.</string>
+    <string name="dog">Dog</string>
+    <string name="faithful_friend_and_reliable_companion">Faithful friend and reliable companion</string>
+    <string name="dog_details">Details</string>
+    <string name="fd_dog">Dogs are charming, energetic and loyal animals that are always ready to support their owner. They are devoted, faithful and never tire of playing and running. Dogs also have excellent feelings - they know how to feel the emotions of their owner and even help to cope with them. The dogs are very communicative and easily learn the command, so they can be not only friends, but also useful helpers in everyday life.</string>
+    <string name="owl">Owl</string>
+    <string name="symbol_of_wisdom_and_intelligence">Symbol of wisdom and intelligence</string>
+    <string name="owl_details">Details</string>
+    <string name="fd_owl">Owls are mysterious and wise creatures associated with the night and secrets. Owls are known for their unique ability to fly silently, which makes them invisible to other animals. They are also considered a symbol of wisdom and intelligence, many cultures believe that owls can foretell the future and even the spirit world. Some species of owls can even turn their heads 270 degrees, which makes them even more mysterious and amazing creatures. </string>
+    <string name="cd_animal1">animal1</string>
+    <string name="cd_animal2">animal2</string>
+    <string name="cd_animal3">animal3</string>
+</resources>
